@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 100 740 290" role="img" aria-label="Side view of a packer truck">
+  <ellipse cx="380" cy="372" rx="300" ry="16" fill="#07140f" opacity=".45"/>
+  <path d="M36 236l-22 36v36h34v-72z" fill="#3aaa68" stroke="#e7f6ec" stroke-width="3"/>
+  <rect x="48" y="132" width="430" height="176" rx="6" fill="#3aaa68" stroke="#e7f6ec" stroke-width="3"/>
+  <rect x="48" y="132" width="430" height="22" fill="#145233"/>
+  <rect x="48" y="214" width="430" height="18" fill="#e2b03a"/>
+  <path d="M48 250h430" stroke="#145233" stroke-width="3" opacity=".45"/>
+  <path d="M478 156h150l78 78v74H478z" fill="#e2b03a" stroke="#f4e2a8" stroke-width="3"/>
+  <path d="M512 172h92l48 52H512z" fill="#d5ebf3"/>
+  <path d="M528 184h62l28 32H528z" fill="#eef7fb" opacity=".7"/>
+  <rect x="36" y="308" width="690" height="16" rx="2" fill="#121c18"/>
+  <g fill="#101816">
+    <circle cx="150" cy="324" r="40"/>
+    <circle cx="250" cy="324" r="40"/>
+    <circle cx="620" cy="324" r="40"/>
+  </g>
+  <g fill="#d5ddd6">
+    <circle cx="150" cy="324" r="14"/>
+    <circle cx="250" cy="324" r="14"/>
+    <circle cx="620" cy="324" r="14"/>
+  </g>
+  <rect x="600" y="248" width="46" height="22" rx="3" fill="#145233"/>
+</svg>
